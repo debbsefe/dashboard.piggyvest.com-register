@@ -1,4 +1,4 @@
-#PiggyVest Registration page clone
+# PiggyVest Registration page clone
 
 A clone of piggyvest registration page using html, css and javascript only, no frameworks.
 
